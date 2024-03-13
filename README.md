@@ -1,5 +1,5 @@
 # learning-github-actions
 
-making some edits
+making some edits. adding some more text..
 
 making a second edit
